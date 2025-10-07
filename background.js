@@ -1,6 +1,6 @@
 const urlPatterns = [
     '.slack.com/archives/',
-    '.notion.so/native/'
+    'slack.com/huddle/'
     // Add more URL patterns here
 ];
   
